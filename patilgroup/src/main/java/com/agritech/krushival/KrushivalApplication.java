@@ -1,13 +1,13 @@
-package com.agritech.patilgroup;
+package com.agritech.krushival;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PatilgroupApplication {
+public class KrushivalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PatilgroupApplication.class, args);
+		SpringApplication.run(com.agritech.krushival.KrushivalApplication.class, args);
 	}
 
 }
